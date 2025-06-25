@@ -2,7 +2,8 @@
 *.d
 
 # Object files
-*.o
+#*.o
+objs/*.o
 *.ko
 *.obj
 *.elf
