@@ -2,6 +2,8 @@
 Classic pong using C and Raylib 5.5. Created and developed by **[Giggly Hank](https://github.com/gigglyHank)**.
 
 ## **Getting Started**
+> [!IMPORTANT]
+> Make a "objs" folder in the same directory the Makefile is located
 
 ### **Optional**
 If you have the following dependicies, you can make the project yourself.
