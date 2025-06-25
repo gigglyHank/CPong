@@ -16,10 +16,13 @@ When installed and ready do the following at the root directory:
 2. then `make`
 
 Here is an explanation of the avaliable make commands:
-`make`              will compile and run the program.
-`make clean`        will remove the object files in objs folder and the program.
-`make all`          will remove object files and program, compile and run the program.
-`make all_no_run`   will execute the "make all" target without running the program.
+| Command | Description |
+| ------- | ---------- |
+| `make`  | will compile and run the program |
+| `make clean` | will remove the object files in objs folder and the program |
+| `make all` | will remove object files and program, compile and run the program |
+| `make all_no_run` | will execute the "make all" target without running the program |
+
 
 ### **I just wanna play**
 Simply run the **pong** program found within the build directory.
